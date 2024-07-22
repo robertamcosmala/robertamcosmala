@@ -11,7 +11,7 @@
 😄 Pronouns: she/her  
 
 
-## Linguagens e Ferramentas
+## Languages and tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
@@ -33,7 +33,7 @@
 
 [![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=seu-usuario&theme=radical)](https://github.com/seu-usuario) -->
 
-## Conecte-se Comigo
+## Conect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roberta-milczwski-cosmala-167200304/)
 

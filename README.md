@@ -2,8 +2,8 @@
 
 ## Hi there 👋
 
-🔭 I’m currently working on studiyng astronomy on federal university of Rio de Janeiro, i work with massive stars and coding.
-🌱 I’m currently learning more about coding and machine learning
+🔭 I’m currently working on studiyng astronomy on federal university of Rio de Janeiro, i work with massive stars and coding. /n
+🌱 I’m currently learning more about coding and machine learning /n
 👯 I’m looking to collaborate on projects of codes and got a job on the area
 📫 How to reach me: rohcosmala@gmail.com
 😄 Pronouns: she/her

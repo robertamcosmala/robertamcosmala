@@ -4,11 +4,11 @@
 
 ## Hi there 👋
 
-🔭 I’m currently working on studiyng astronomy on federal university of Rio de Janeiro, i work with massive stars and coding. 
-🌱 I’m currently learning more about coding and machine learning 
-👯 I’m looking to collaborate on projects of codes and got a job on the area
-📫 How to reach me: rohcosmala@gmail.com
-😄 Pronouns: she/her
+🔭 I’m currently working on studying astronomy at the Federal University of Rio de Janeiro, I work with massive stars and coding.  
+🌱 I’m currently learning more about coding and machine learning.  
+👯 I’m looking to collaborate on coding projects and get a job in the area.  
+📫 How to reach me: rohcosmala@gmail.com  
+😄 Pronouns: she/her  
 
 
 ## Linguagens e Ferramentas

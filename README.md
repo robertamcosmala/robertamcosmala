@@ -8,6 +8,8 @@
 🌱 I’m currently learning more about coding and machine learning 
 👯 I’m looking to collaborate on projects of codes and got a job on the area
 📫 How to reach me: rohcosmala@gmail.com
+😄 Pronouns: she/her
+
 
 ## Linguagens e Ferramentas
 
@@ -36,6 +38,4 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roberta-milczwski-cosmala-167200304/)
 
 
-
-😄 Pronouns: she/her
 
